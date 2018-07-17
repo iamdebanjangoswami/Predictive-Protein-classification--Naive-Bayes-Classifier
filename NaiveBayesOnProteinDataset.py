@@ -113,7 +113,7 @@ print(vect.get_feature_names()[-20:])
 # Machine Learning Models:
 #With the features extracted, it's time to use machine learning models. Traditionally a Naive Bayes approach works well for these types of count vectorized features. Adaboost will be used as well for comparison.
 
-4). ------ Machine Learning Models ------
+#4). ------ Machine Learning Models ------
 
 # Make a prediction dictionary to store accuracys
 prediction = dict()
